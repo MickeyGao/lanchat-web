@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LanChat"
+  id="myeclipse.1408706549718"
+  context-root="/LanChat"
+  j2ee-spec="6.0"
+  archive="LanChat.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
